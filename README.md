@@ -10,4 +10,4 @@ I use Beautiful Soup to scrape the web, Python and Pandas to read, clean, and wr
 I use data on NBA MVP candidates from 2000-2022, as the game evolved significantly and the general consensus/opinion on MVP criteria changed from the 2000's forward. I analyze data on over 10,000 players and 25 different features. 
 
 ## Datasets
-I collected advanced player statistics from [Kaggle]([url](https://www.kaggle.com/datasets/justinas/nba-players-data)https://www.kaggle.com/datasets/justinas/nba-players-data) I scraped basketball-reference for team records for each season, as well as MVP voting results. 
+I collected advanced player statistics from Kaggle, and scraped basketball-reference for team records for each season, as well as MVP voting results. 
