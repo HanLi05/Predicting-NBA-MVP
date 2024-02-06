@@ -11,3 +11,7 @@ I use data on NBA MVP candidates from 2000-2022, as the game evolved significant
 
 ## Datasets
 I collected advanced player statistics from Kaggle, and scraped basketball-reference for team records for each season, as well as MVP voting results. 
+
+## Presentation
+Here is the link to the slideshow that I created that showcased my findings. 
+https://docs.google.com/presentation/d/1VQV0SsldagybEg-Qvsb5ybHVLUHlAxvB/edit?usp=sharing&ouid=111966242971909598964&rtpof=true&sd=true
